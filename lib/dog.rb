@@ -3,14 +3,6 @@ class Dog
     puts "Woof!"
   end
   def sit
-    puts "The dog is sitting."
-end
-
-class Person
-  def talk
-    puts "Hello World!"
-  end
-  def walk
-    puts "The person is walking."
+    puts "The Dog is sitting"
   end
 end
